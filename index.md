@@ -8,4 +8,4 @@
 layout: home
 ---
 
-This is my blog. Click on the post to see a funny video of cats and dogs.
+This is my blog :) Click on the post to see a funny video of cats and dogs.
